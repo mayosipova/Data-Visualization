@@ -22,13 +22,13 @@ The data presented is the average value for each of the 5 parameters in the grou
 ### Compound Bar Plots
 The data presented is the average value for each of the 5 parameters in the group of interviewed women and men. The data is displayed as follows: the upper bound of one parameter is the lower bound of another. According to this graph, you can understand how important each of the parameters is for all respondents.
 
-![](BarGraph3.png)    
+![](BarGraph3_1.png)    
 
 
 ### Grouped Bar Plot
 The data presented is the average value for each of the 5 parameters in the group of interviewed women and men. The corresponding parameters are displayed together (ie the average value for parameter 1 in the group of women and the average value of parameter 2 in the group of men). According to this graph, you can understand for which group each of the parameters is more significant and by how much. In other words, we can compare two groups within each of the parameters.
 
- ![](BarGraph4.png)
+ ![](BarGraph4_1.png)
 
 ## Line Plots
 Line plots are used when one variable is highly dependent on another. Line graphs show the covariance of two variables.
@@ -46,3 +46,16 @@ The radial chart is useful when we want to compare the parameters of the same en
 Histograms are useful for representing the distribution of data. Of course, this type of plot is most useful for the probability density distribution. However, we will use this type of graph to look at the distribution of the ages of the survey participants.
 
 ![](Histogram.png)
+
+## Heatmap
+A heatmap is a matrix representation of data in which each value is shown in a specific color. Each value has its own color and the index matrix compares 2 elements or their properties. Heatmaps show the relationship of multiple variables to each other by displaying their values as specific colors.
+
+I made a heatmap showing how Female and Male answered all the questions.
+
+### Female Data
+
+![](Heatmap1.png)
+
+### Male Data
+
+![](Heatmap2.png)
