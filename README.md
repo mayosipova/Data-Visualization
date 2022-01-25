@@ -1,6 +1,6 @@
 # Data Visualization
 ## Introduction
-The data used below are [survey]( https://docs.google.com/forms/d/1YqZP3Ad6lMBzBrWGZy_z3YL35_obh1nmOuDgmhpYhWU/edit?usp=sharing) results. The survey was created as part of the course "IT-Organisation and Computer Service Management". 70 people were interviewed about their expectations from the banking service using the SERVQUAL service assessment method. In order to work with the table, it must be loaded on the home page in localhost.
+The data used below are [survey]( https://docs.google.com/forms/d/1YqZP3Ad6lMBzBrWGZy_z3YL35_obh1nmOuDgmhpYhWU/edit?usp=sharing) results. The survey was created as part of the course "IT-Organisation and Computer Service Management". 70 people were interviewed about their preceptions from the banking service using the SERVQUAL service assessment method. In order to work with the table, it must be loaded on the home page in localhost.
 
 A little about the data with which we will work. The essence of the method is to find out how important certain parameters are for users in each of the 5 categories (tangibles, reliability, responsiveness, assurance, empathy) on a 7-point scale (1 - not important at all, 7 - very important), and then compare the expectations for two groups of people (in my case, men and women. Unfortunately, I did not find representatives of other genders). We will build all kinds of graphs based on the results obtained during the survey.
 
